@@ -1,4 +1,4 @@
-print("Total days is Year")
+print("Total days in Year")
 print(365)
 print("Circumference rate")
-print(3.14159226535)
+print(3.1415926535)

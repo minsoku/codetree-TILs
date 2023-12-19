@@ -1,6 +1,8 @@
+n = int(input())
+
 def test():
     print("12345^&*()_")
 
 
-for _ in range(4):
+for _ in range(n):
     test()
